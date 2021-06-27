@@ -3,7 +3,7 @@
 Simulation of the game Cows and Bulls.
 
 Two ways to choose the secret series:
-A. Random selectionץ
+A. Random selection.
 B. Manual determination by the user.
 
 Three ways to guess the secret:
